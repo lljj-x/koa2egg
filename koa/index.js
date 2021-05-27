@@ -12,3 +12,5 @@ app.use(async ctx => {
 const port = 3131;
 app.listen(port);
 console.log(`Lister: ${port}`);
+
+debugger

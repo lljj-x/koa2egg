@@ -3,10 +3,9 @@ class AppBootHook {
   constructor(app) {
     this.app = app;
     this.test();
-    debugger
   }
   test() {
-    console.log('11')
+    console.log('11');
   }
 }
 
